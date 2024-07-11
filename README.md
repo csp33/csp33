@@ -15,7 +15,7 @@ Motivated by my growing interest, I continued to enhance my skills in the DevOps
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=csp33&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=csp33&limit=5&theme=dark&hide_contributor_rank=false)
 
 ## 😂 Of course there's room for dev memes
