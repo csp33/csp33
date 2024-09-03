@@ -19,9 +19,9 @@ Motivated by my growing interest, I continued to enhance my skills in the DevOps
 ![](https://github-contributor-stats.vercel.app/api?username=csp33&limit=5&theme=dark&hide_contributor_rank=false)
 
 ## 😂 Of course there's room for dev memes
-![](https://camo.githubusercontent.com/026e6d2037bf715c4fe90e9b0a41aea2aa745fa21bb323a3a31acca77ed8a628/68747470733a2f2f70726f6772616d6d657268756d6f722e696f2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f70726f6772616d6d657268756d6f722d696f2d707974686f6e2d6d656d65732d6261636b656e642d6d656d65732d3431306337616235383965353032342e6a7067) 
+![image](https://github.com/user-attachments/assets/990a7a21-ea89-4482-aa65-e31d108a863c)
 
-![](https://user-images.githubusercontent.com/35291614/195594540-c70d6694-befc-40cf-be31-fbc97eb374d9.png)
+![image](https://github.com/user-attachments/assets/885eb202-4ce6-4ad6-a98c-ebfb3fa9dab7)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=csp33&icon=0&color=0)](https://visitcount.itsvg.in)
