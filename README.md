@@ -1,7 +1,10 @@
 # 💫 About Me
-👨‍💻🔥 I am a passionate programmer who enjoys technology and thrives on solving challenges. <br>My journey began as a Python backend developer 🐍, but my curiosity led me to transition into the role of a Data Engineer 🌐. 
-Motivated by my growing interest, I continued to enhance my skills in the DevOps field 🚀. <br>Today, I consider myself a hybrid profile, who can both think as a Dev and an Ops 🎯. 
+👨‍💻👨‍💻🔥 I’m a passionate developer driven by the desire to create impactful solutions. 
+My journey began as a Python backend developer 🐍, but my curiosity led me to transition into the role of a Data Engineer 🌐. Then, I continued to enhance my skills in the DevOps field 🚀, always focused on delivering results that make a difference.
 
+I specialize in deploying and optimizing high-performance Airflow clusters on Kubernetes 🛠️, ensuring reliability for demanding workloads. I love collaborating with diverse teams (I.e., backend, data, DevOps) and enjoy taking on roles that span multiple areas, rather than being limited to a single one 🎯
+
+In my free time, I love working on home automation projects with Home Assistant 🏠 and managing my own Kubernetes cluster 📡.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csp33/) 
